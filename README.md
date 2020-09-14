@@ -6,6 +6,7 @@
 - [Express](https://github.com/expressjs/express)
 - [CORS](https://github.com/expressjs/cors)
 - [Morgan](https://github.com/expressjs/morgan)
+- [dotenv](https://github.com/motdotla/dotenv)
 - [Nodemon](https://github.com/remy/nodemon)
 
 ## Ordner Struktur
