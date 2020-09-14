@@ -1,7 +1,7 @@
 {
   "name": "express-starter",
   "version": "1.0.0",
-  "description": "Entry point for Express.js projects with preconfigured structure",
+  "description": "A starter project for Express.js projects, with all needed folders and packages already setup",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
