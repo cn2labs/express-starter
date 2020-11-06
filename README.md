@@ -1,6 +1,6 @@
 # 🔋 Express starter project
 
-"Blank Theme" für Express.js Projekte, mit vorangelegter Ordner-Struktur. Enthält bereits die folgenden Module:
+"Batteries included" Blank Theme für Express.js Projekte, mit vorangelegter Ordner-Struktur. Enthält bereits die folgenden Module:
 
 - [Nano ID](https://github.com/ai/nanoid)
 - [Express](https://github.com/expressjs/express)
@@ -11,9 +11,10 @@
 
 ## Ordner Struktur
 
-- **api**: Enthält alle API Routen
-- **db**: Enthält die DB-Logik (Controller, ggf. Models)
-- **utils**: Dort können Helfer-Funktionen abgelegt werden
+- **routes**: Enthält alle API Routen
+- **controllers**: Enthält alle Controller
+- **utils**: Dort können Helfer-Funktionen abgelegt werden (Authentifizierung, Custom Errors usw.)
+- **middlewares**: Enthält alle Middlewares (Auth, Error Handling usw.)
 
 ## Setup
 
